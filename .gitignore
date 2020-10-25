@@ -1,0 +1,27 @@
+Library/
+Temp/
+Obj/
+Temp/
+*.unityproj
+*.sln
+*.suo
+Builds/
+PlaygroundCache/
+compilation log.txt
+ProjectSettings/ProjectVersion.txt
+Assets/Scenes/Demo/Demo/
+profiler.html
+CSharp70Support/compilation.log
+.vs/SuperCharger/
+.vs/
+*.csproj
+.collabignore
+.idea/
+.vscode/
+ProjectSettings/TimeManager.asset
+compilation.log
+CSharp70Support/unityVersion.txt
+/Logs/Packages-Update.log
+/Assembly-CSharp.csproj.user
+*.DotSettings.user
+!Assets/**/*.dll
